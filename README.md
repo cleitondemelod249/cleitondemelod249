@@ -1,16 +1,20 @@
-### Hi there 👋
+![GitHub Followers](https://img.shields.io/github/followers/cleitondemelod249?style=social) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/cleitondemelod249/)](https://www.linkedin.com/in/cleitondemelod249/)
 
-<!--
-**cleitondemelod249/cleitondemelod249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, my name is Cleiton Melo. I'm a Web and Python Developer! 🇧🇷
 
-Here are some ideas to get you started:
+▪️ I started my journey in the tech world almost four years ago,
+and every day I try to improve my skills and become the best of myself.👣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▪️ I’m currently working as Software Engineer at @MidiaVox 🔭
+
+▪️ Ask me about `[Java, React, Javascript, Python, PHP, C#, SQL]`
+
+### Another facts about me:
+
+▪️ I love reading technology blogs and books, I study a lot of my time on a self-taught basis.💡
+
+▪️ I love teaching about programming
+
+▪️ My dream is to be a programming teacher. 🤵
+
+![Cleiton's github stats](https://github-readme-stats.vercel.app/api?username=cleitondemelod249)
