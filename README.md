@@ -17,8 +17,8 @@ and every day I try to improve my skills and become the best of myself.👣
 
 > My dream is to be a programming teacher. 🤵
 
-<center>![Cleiton's github stats](https://github-readme-stats.vercel.app/api?username=cleitondemelod249)</center>
+<spam style="text-align: center;">![Cleiton's github stats](https://github-readme-stats.vercel.app/api?username=cleitondemelod249)</spam>
 
-<center>![Cleiton's github usage](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitondemelod249&layout=compact&langs_count=999)</center>
+<spam>![Cleiton's github usage](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitondemelod249&layout=compact&langs_count=999)</spam>
 
 
