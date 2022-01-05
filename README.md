@@ -5,7 +5,7 @@
 > I started my journey in the tech world almost four years ago,
 and every day I try to improve my skills and become the best of myself.👣
 
-> I’m currently working as Software Engineer at @MidiaVox 🔭
+> I’m currently working as Software Engineer at @edgebr 🔭
 
 > Ask me about `[Java, React, Javascript, Python, PHP, C#, SQL]`
 
